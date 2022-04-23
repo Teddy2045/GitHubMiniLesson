@@ -1,4 +1,1 @@
 # GitHubMiniLesson
-# GitHubMiniLesson
-# GitHubMiniLesson
-# GitHubMiniLesson
